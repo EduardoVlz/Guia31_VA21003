@@ -1,0 +1,53 @@
+/* carnet-ejercicio2b.css */
+* {
+  display: block;
+  font-family: Georgia, serif;
+  margin: 5px;
+}
+
+pais {
+  border: 2px solid #000;
+  padding: 10px;
+  background: #e3f2fd;
+}
+
+moneda {
+  color: darkblue;
+  font-size: 18px;
+}
+
+codigotel {
+  color: darkred;
+  font-weight: bold;
+}
+
+departamento {
+  margin: 8px;
+  padding: 6px;
+  border: 1px dashed #444;
+  background: #fff3e0;
+}
+
+cabecera {
+  font-size: 20px;
+  font-weight: bold;
+  color: #1565c0;
+}
+
+habitantes {
+  color: #2e7d32;
+}
+
+altura {
+  color: #6a1b9a;
+}
+
+idioma {
+  color: #000;
+  font-style: italic;
+}
+
+area {
+  color: #d84315;
+  font-weight: bold;
+}

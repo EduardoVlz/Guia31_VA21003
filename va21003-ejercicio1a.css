@@ -1,0 +1,31 @@
+/* carnet-ejercicio1a.css */
+* {
+  display: block;
+  font-family: Arial, sans-serif;
+  margin: 4px;
+}
+
+nombre {
+  font-size: 20px;
+  font-weight: bold;
+  color: navy;
+}
+
+apellido {
+  font-size: 18px;
+  color: darkgreen;
+}
+
+direccion {
+  color: gray;
+  font-style: italic;
+}
+
+profesion {
+  color: brown;
+}
+
+edad {
+  color: purple;
+  font-weight: bold;
+}

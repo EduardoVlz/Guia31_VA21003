@@ -1,0 +1,42 @@
+{
+    "@attributes": {
+        "nombre": "El Salvador"
+    },
+    "moneda": "dolar",
+    "codigotel": "+503",
+    "departamento": [
+        {
+            "@attributes": {
+                "id": "1",
+                "nombre": "San Salvador"
+            },
+            "cabecera": "San Salvador",
+            "habitantes": "1,700,000",
+            "altura": "545 MSNM",
+            "idioma": "oficial",
+            "area": "886 km2"
+        },
+        {
+            "@attributes": {
+                "id": "2",
+                "nombre": "La Libertad"
+            },
+            "cabecera": "Santa Tecla",
+            "habitantes": "1,000,000",
+            "altura": "500 MSNM",
+            "idioma": "oficial",
+            "area": "1653 km2"
+        },
+        {
+            "@attributes": {
+                "id": "3",
+                "nombre": "Santa Ana"
+            },
+            "cabecera": "Santa Ana",
+            "habitantes": "1,100,000",
+            "altura": "520 MSNM",
+            "idioma": "oficial",
+            "area": "2023 km2"
+        }
+    ]
+}

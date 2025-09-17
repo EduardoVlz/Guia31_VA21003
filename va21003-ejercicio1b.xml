@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet type="text/css" href="va21003-ejercicio1b.css"?>
+<!-- ejemplo1.xml  SUCARNET -->
+<fichero>
+<ficha id="1" fechaingreso="1/11/2012">
+<nombre>Eduardo</nombre>
+<apellido>Amaya</apellido>
+<direccion>San juan opico</direccion>
+<profesion>Estudiante</profesion>
+<edad>25</edad>
+</ficha>
+<ficha id="2" fechaingreso="1/11/2012">
+<nombre>Eduardo</nombre>
+<apellido>Amaya</apellido>
+<direccion>San juan opico</direccion>
+<profesion>Estudiante</profesion>
+<email>prueba@gmail.com</email>
+<telefono>25252525</telefono>
+<edad>25</edad>
+</ficha>
+<ficha id="2" fechaingreso="1/11/2012">
+<nombre>Eduardo</nombre>
+<apellido>Amaya</apellido>
+<direccion>San juan opico</direccion>
+<profesion>Estudiante</profesion>
+<email>prueba@gmail.com</email>
+<telefono>25252525</telefono>
+<edad>25</edad>
+<dui>06114589</dui>
+<isss>2522</isss>
+<afp>9990</afp>
+</ficha>
+</fichero>

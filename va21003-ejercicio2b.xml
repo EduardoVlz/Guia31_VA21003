@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet type="text/css" href="va21003-ejercicio2b.css"?>
+<!-- ejemplo2.xml  SUCARNET -->
+<pais nombre="El Salvador">
+<moneda>dolar</moneda>
+<codigotel>+503</codigotel>
+<departamento id="1" nombre="San Salvador">
+<cabecera>San Salvador</cabecera>
+<habitantes>1,700,000</habitantes>
+<altura>545 MSNM</altura>
+<idioma>oficial</idioma>
+<area>886 km2</area>
+</departamento>
+<departamento id="2" nombre="La Libertad">
+<cabecera>Santa Tecla</cabecera>
+<habitantes>1,000,000</habitantes>
+<altura>500 MSNM</altura>
+<idioma>oficial</idioma>
+<area>1653 km2</area>
+</departamento>
+<departamento id="3" nombre="Santa Ana">
+<cabecera>Santa Ana</cabecera>
+<habitantes>1,100,000</habitantes>
+<altura>520 MSNM</altura>
+<idioma>oficial</idioma>
+<area>2023 km2</area>
+</departamento>
+</pais>

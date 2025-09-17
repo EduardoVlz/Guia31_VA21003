@@ -1,0 +1,45 @@
+/* carnet-ejercicio2a.css */
+* {
+  display: block;
+  font-family: Verdana, sans-serif;
+  margin: 4px;
+}
+
+moneda {
+  color: teal;
+  font-weight: bold;
+}
+
+codigotel {
+  color: darkorange;
+}
+
+departamento {
+  border: 1px solid #ccc;
+  margin: 8px;
+  padding: 6px;
+  background: #f9f9f9;
+}
+
+cabecera {
+  font-size: 18px;
+  font-weight: bold;
+  color: #2c3e50;
+}
+
+habitantes {
+  color: #27ae60;
+}
+
+altura {
+  color: #8e44ad;
+}
+
+idioma {
+  color: #555;
+  font-style: italic;
+}
+
+area {
+  color: brown;
+}

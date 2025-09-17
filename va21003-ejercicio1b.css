@@ -1,0 +1,36 @@
+/* carnet-ejercicio1b.css */
+* {
+  display: block;
+  font-family: "Courier New", monospace;
+  margin: 5px;
+  padding: 3px;
+}
+
+nombre {
+  background: #2196f3;
+  color: white;
+  font-size: 22px;
+  font-weight: bold;
+  padding: 5px;
+}
+
+apellido {
+  background: #4caf50;
+  color: white;
+  font-size: 20px;
+  padding: 5px;
+}
+
+direccion {
+  color: #333;
+}
+
+profesion {
+  color: darkred;
+  font-style: italic;
+}
+
+edad {
+  color: black;
+  border-bottom: 1px solid #ccc;
+}
